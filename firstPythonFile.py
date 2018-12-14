@@ -7,6 +7,8 @@ def triangle(height):
 def line(length):
   print('-' * length)
   return 0
+def fooFunc():
+  return "This is a 3rd function."
 
 
 if __name__ == '__main__':
@@ -14,3 +16,4 @@ if __name__ == '__main__':
   print(power(10, 3))
   triangle(5)
   line(20)
+  print(fooFunc())
