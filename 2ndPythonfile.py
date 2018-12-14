@@ -1,6 +1,6 @@
 #importing modules
 import os
 import numpy as np
-import pandans
+import pandas
 
 #there is an error in line 4.
